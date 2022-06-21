@@ -1,0 +1,25 @@
+{
+  "name": "portafolio",
+  "version": "1.0.1",
+  "description": "nueva pagina web",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dacalvo/portafolio.git"
+  },
+  "author": "diego alejandro calvo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dacalvo/portafolio/issues"
+  },
+  "homepage": "https://github.com/dacalvo/portafolio#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "aos": "^2.3.4",
+    "jquery": "^3.6.0",
+    "mdb-ui-kit": "^4.2.0"
+  }
+}
