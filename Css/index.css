@@ -72,10 +72,10 @@ transition:filter .2s;
 #imagenFinal ul{
    list-style: none;
 }
-#imagenFinal ul i{
+#imagenFinal ul li svg{
    color: var(--color-iconos);
 }
-#imagenFinal ul i:hover{
+#imagenFinal ul li svg:hover{
    color:white;
    padding: 10px;
    background-color: #444444;
